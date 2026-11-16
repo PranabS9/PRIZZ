@@ -1,0 +1,5 @@
+bidId,requestId,providerId,bidAmount,proposalMessage
+1,501,201,247.96,"Instant Dispatch Service Quote #1"
+2,501,202,233.63,"Instant Dispatch Service Quote #2"
+4,501,204,219.40,"Instant Dispatch Service Quote #4"
+3,501,203,140.57,"Instant Dispatch Service Quote #3"
